@@ -1,0 +1,37 @@
+# Dependencias
+/node_modules
+
+# Archivos generados por el sistema operativo
+.DS_Store
+
+# Archivos de registro
+/logs
+
+# Archivos de configuración local
+.env
+
+# Archivos de respaldo
+*.bak
+*.swp
+*.swo
+
+# Archivos de compilación
+/dist
+
+# Archivos de prueba
+/coverage
+
+# Archivos de caché
+/.cache
+
+# Archivos de registro de errores
+/error.log
+
+# Archivos de respaldo de bases de datos
+/*.db
+
+# Archivos de respaldo de sesiones
+/session-store
+
+# Archivos de respaldo de imágenes
+/uploads
